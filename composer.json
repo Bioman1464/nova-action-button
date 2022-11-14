@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "pdmfc/nova-action-button: "*"
+        "pdmfc/nova-action-button": "*"
     },
     "autoload": {
         "psr-4": {
